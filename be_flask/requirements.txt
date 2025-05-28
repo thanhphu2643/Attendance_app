@@ -1,0 +1,10 @@
+numpy==1.23.5
+Flask
+gunicorn
+dlib
+cmake
+opencv-python
+scikit-learn
+face_recognition
+
+
