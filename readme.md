@@ -43,4 +43,4 @@ This application helps companies prevent time fraud such as buddy punching and e
 5. Manager Functions: Create/Manage Employees, Set Work Coordinates & Hours
 6. Admin Functions: Manage Companies & Admin Accounts
 
-![alt text](Picture1.jpg)
+![alt text](image.png)
